@@ -6,7 +6,7 @@ theme = "terminal"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-paginate = 20
+paginate = 5
 
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
@@ -31,9 +31,8 @@ enableInlineShortcodes = true
     description = "I am a computer engineering undergrad studying at the Institute of Engineering, Pulchowk Campus. I am currently in the post of Software Coordinator in LOCUS. I am interested in Artificial Intelligence, Machine Learning, Computer Vision, and Natural Language Processing"
     keywords = "blog,developer,portfolio,tech,otaku"
     info = "Full Stack Developer, Deep Learning Enthusiast"
-    avatarUrl = "img/cover.jpg"
-    images = ["img/cover.jpg"] # for og and twitter
-    # gravatar = "john.doe@example.com"
+    avatarUrl = "images/cover.jpg"
+    images = ["images/cover.jpg"]
 
     dateFormat = "February 2, 2022"
 
@@ -54,18 +53,13 @@ enableInlineShortcodes = true
 
     # Series see also post count
     maxSeeAlsoItems = 5
+    
+    fullWidthTheme = false
+    centerTheme = true
 
     # Enable Twemoji
     enableTwemoji = false
 
-    # Custom CSS
-    customCSS = []
-
-    # Custom SCSS
-    customSCSS = []
-
-    # Custom JS
-    customJS = []
 
 # If you want to implement a Content-Security-Policy, add this section
 # NOTE: The work is tedius since add the sources have to be added
@@ -127,27 +121,34 @@ enableInlineShortcodes = true
         owner = "Aayush Shah Kanu"
         keywords = "blog,developer,otaku"
         copyright = "© 2022 Aayush Shah Kanu"
+        
+        menuMore = "Show more"
+        readMore = "Read more"
+        readOtherPosts = "Read other posts"
 
         [languages.en.params.logo]
             logoText = "HOME"
-            logoHomeLink = "/"
+            logoHomeLink = "/about"
 
         [languages.en.menu]
 
             [[languages.en.menu.main]]
             name = "About"
+            identifier = "About"
             weight = 1
-            url = "about/"
+            url = "/about"
 
             [[languages.en.menu.main]]
             name = "CV"
+            identifier = "cv"
             weight = 2
-            url = "cv/"
+            url = "/cv"
 
             [[languages.en.menu.main]]
             name = "Blog"
+            identifier = "posts"
             weight = 3
-            url = "posts/"
+            url = "/posts"
 
 
 [markup]

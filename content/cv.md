@@ -73,8 +73,8 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 - [Deep Learning Specialization, Coursera](https://coursera.org/share/ae6b046ba7dfdb6a0141dbd3001d99c2)
 - [DeepLearning.AI TensorFlow Developer Specialization, Coursera](https://coursera.org/share/192007cd3405ac570fd76216389fee4e)
 - [AI for Medicine Specialization, Coursera](https://coursera.org/share/a13af8aedbe1cd072c3de65f6130eeb6)
-- [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/81b77842ce2033dd8084c20adedf4d7b)
-- [Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/9e66f2d7cac89a081fab9b2ba8abad07)
+- [Build Basic Generative Adversarial Networks (GANs), Coursera](https://coursera.org/share/81b77842ce2033dd8084c20adedf4d7b)
+- [Natural Language Processing with Classification and Vector Spaces, Coursera](https://coursera.org/share/9e66f2d7cac89a081fab9b2ba8abad07)
 
 ---
 #### Links:

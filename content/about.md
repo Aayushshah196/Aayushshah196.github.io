@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 date = "2022-02-22"
 author = "Aayush Shah Kanu"
-cover = "img/cover.jpg"
+cover = "images/cover.jpg"
 +++
 
 Hi, I am Aayush.
