@@ -3,7 +3,7 @@ title = "CV: Aayush Shah Kanu"
 slug = "cv"
 date = "2022-02-22"
 author = "Aayush Shah Kanu"
-tags: ["cv", "resume", "portfolio"]
+tags = ["cv", "resume", "portfolio"]
 +++
 
 #### Primary Information
