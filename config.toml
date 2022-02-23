@@ -1,4 +1,4 @@
-baseUrl = "https://aayushshah.com.np/"
+baseUrl = "http://aayushshah.com.np/"
 title = "Aayush Shah Kanu"
 
 theme = "terminal"
@@ -18,7 +18,7 @@ enableEmoji = true
 disqusShortname = "Aayush shah"
 
 # Enable Google Analytics
-# googleAnalytics = "UA-176075966-1"
+googleAnalytics = "G-Z2BNT5TQSP"
 
 # Enable robots.txt
 enableRobotsTXT = true
