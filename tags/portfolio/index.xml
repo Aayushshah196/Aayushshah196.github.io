@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>portfolio on Aayush Shah Kanu</title><link>http://aayushshah.com.np/tags/portfolio/</link><description>Recent content in portfolio on Aayush Shah Kanu</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2022 Aayush Shah Kanu</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aayushshah.com.np/tags/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>CV: Aayush Shah Kanu</title><link>http://aayushshah.com.np/cv/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>http://aayushshah.com.np/cv/</guid><description>Primary Information Name: Aayush Shah Kanu
+Employment Status: Student
+College: Pulchowk Campus, IOE
+Undergraduate: Bachelor in Computer Engineering
+Year: Third Year, Sixth Semester
+Address:
+Primary: Biratnagar-3, Morang Secondary: Pulchowk, Lalitpur (current) Permanent: Barah-2, Sunsari Email:
+aayushshah196@gmail.com Skills: Programming Languages : Python, C++, C and JavaScript Machine Learning : Numpy, Pandas, Scikit-Learn TensorFlow, Pytorch Web Development : Reactjs, Expressjs, Flask and Django Databases : SQLite3, Postgres, MongoDB Version Control : Git Achievements and Awards: Ncell Scholarship, 2020, Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provided to outstanding students.</description><content>&lt;h4 id="primary-information">Primary Information&lt;/h4>
+&lt;p>&lt;strong>Name:&lt;/strong> Aayush Shah Kanu&lt;br>
+&lt;strong>Employment Status:&lt;/strong> Student&lt;br>
+&lt;strong>College:&lt;/strong> Pulchowk Campus, IOE&lt;br>
+&lt;strong>Undergraduate:&lt;/strong> Bachelor in Computer Engineering&lt;br>
+&lt;strong>Year:&lt;/strong> Third Year, Sixth Semester&lt;br>
+&lt;strong>Address:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Primary: Biratnagar-3, Morang&lt;/li>
+&lt;li>Secondary: Pulchowk, Lalitpur (current)&lt;/li>
+&lt;li>Permanent: Barah-2, Sunsari&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Email:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="mailto:aayushshah196@gmail.com">aayushshah196@gmail.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="skills">Skills:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Programming Languages&lt;/strong> : Python, C++, C and JavaScript&lt;/li>
+&lt;li>&lt;strong>Machine Learning&lt;/strong> : Numpy, Pandas, Scikit-Learn TensorFlow, Pytorch&lt;/li>
+&lt;li>&lt;strong>Web Development&lt;/strong> : Reactjs, Expressjs, Flask and Django&lt;/li>
+&lt;li>&lt;strong>Databases&lt;/strong> : SQLite3, Postgres, MongoDB&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong> : Git&lt;/li>
+&lt;/ul>
+&lt;h4 id="achievements-and-awards">Achievements and Awards:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Ncell Scholarship, 2020&lt;/strong>,
+Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provided to outstanding students.&lt;/li>
+&lt;/ul>
+&lt;h4 id="work-experience">Work Experience:&lt;/h4>
+&lt;ul>
+&lt;li>Freelancer at &lt;strong>&lt;a href="https://www.upwork.com/freelancers/~01257eab052741ec05">Upwork&lt;/a>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="academic-and-non-academic-projects">Academic And Non Academic Projects:&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://github.com/Atomnp/Anubadak">Anubadak: interpreter implemented in C++&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Academic Project for Object Oriented Programming&lt;/li>
+&lt;li>Simple interpreter for &lt;code>B&lt;/code> like language&lt;/li>
+&lt;li>Uses common compiler design principles like lexical analysis, semantic analysis, Abstract Syntax Tree(AST)&lt;/li>
+&lt;li>Translates Code into equivalent C++ code&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/DataStructure-Algorithms">DSA Visualizer&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Visualization of different Data Structure and Algorithms&lt;/li>
+&lt;li>Include visualization for sorting (Quicksort,Mergesort,Shellshort,Insertionsort, Selectionsort, Radixsort etc.)&lt;/li>
+&lt;li>Includes visualization for Graph Algorithms ( Prism&amp;rsquo;s Algorithm, Kruskal&amp;rsquo;s Algorithm, Breadth First Search, Depth First Search)&lt;/li>
+&lt;li>Implemented in SFML using C++&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://github.com/ADI13579/Opengl-Project">3D Clock Tower visualization&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Academic Project for Computer Graphics&lt;/li>
+&lt;li>Implemented using C++&lt;/li>
+&lt;li>Renderer created from scratch which can render any 3D model&lt;/li>
+&lt;li>implements Gourad shading and Phong shading&lt;/li>
+&lt;li>implements Phong illumination model&lt;/li>
+&lt;li>Blender for 3D model&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="certifications">Certifications&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://coursera.org/share/ae6b046ba7dfdb6a0141dbd3001d99c2">Deep Learning Specialization, Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coursera.org/share/192007cd3405ac570fd76216389fee4e">DeepLearning.AI TensorFlow Developer Specialization, Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coursera.org/share/a13af8aedbe1cd072c3de65f6130eeb6">AI for Medicine Specialization, Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coursera.org/share/81b77842ce2033dd8084c20adedf4d7b">Build Basic Generative Adversarial Networks (GANs), Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coursera.org/share/9e66f2d7cac89a081fab9b2ba8abad07">Natural Language Processing with Classification and Vector Spaces, Coursera&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="links">Links:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://aayushshah.com.np/">Personal Website&lt;/a>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/aayushshah196">GitHub Profile&lt;/a>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.linkedin.com/in/aayush-shah-kanu-3b04401a2">LinkedIn&lt;/a>&lt;/strong>&lt;/li>
+&lt;/ul></content></item></channel></rss>
