@@ -37,9 +37,24 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 #### Work Experience:
 
 - Freelancer at **[Upwork](https://www.upwork.com/freelancers/~01257eab052741ec05)**
+  - Performed lead generation
+  - Extracted about a million of cricket Matches, Players, Grounds data and pipelined it to work with live tableau worbook
 
 
 #### Academic And Non Academic Projects:
+
+
+- **[ML Algorithms](https://github.com/Aayushshah196/Ml-Algo)**
+
+  - Implemented ML/DL algorithms from scratch
+  - Includes ML algorithms (KNN, Linear Regression)
+  - Includes Neural Networks ( ANN, CNN )
+  - Includes multiple optimizers (Gradient Descent, Momentum, RMSProp, Adam)
+
+- **[Computer Vision Dump](https://github.com/Aayushshah196/opencvtuts)**
+
+  - Object detection using haarcascade
+  - Implemented drawing in canvas through hand motion
 
 
 - **[Anubadak: interpreter implemented in C++](https://github.com/Atomnp/Anubadak)**
@@ -55,7 +70,7 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
   - Visualization of different Data Structure and Algorithms
   - Include visualization for sorting (Quicksort,Mergesort,Shellshort,Insertionsort, Selectionsort, Radixsort etc.)
   - Includes visualization for Graph Algorithms ( Prism's Algorithm, Kruskal's Algorithm, Breadth First Search, Depth First Search)
-  - Implemented in SFML using C++
+  - Implemented in C++ using SFML
   
 
 - **[3D Clock Tower visualization](https://github.com/ADI13579/Opengl-Project)**
