@@ -48,10 +48,31 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 &lt;/ul>
 &lt;h4 id="work-experience">Work Experience:&lt;/h4>
 &lt;ul>
-&lt;li>Freelancer at &lt;strong>&lt;a href="https://www.upwork.com/freelancers/~01257eab052741ec05">Upwork&lt;/a>&lt;/strong>&lt;/li>
+&lt;li>Freelancer at &lt;strong>&lt;a href="https://www.upwork.com/freelancers/~01257eab052741ec05">Upwork&lt;/a>&lt;/strong>
+&lt;ul>
+&lt;li>Performed lead generation&lt;/li>
+&lt;li>Extracted about a million of cricket Matches, Players, Grounds data and pipelined it to work with live tableau worbook&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h4 id="academic-and-non-academic-projects">Academic And Non Academic Projects:&lt;/h4>
 &lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/Ml-Algo">ML Algorithms&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Implemented ML/DL algorithms from scratch&lt;/li>
+&lt;li>Includes ML algorithms (KNN, Linear Regression)&lt;/li>
+&lt;li>Includes Neural Networks ( ANN, CNN )&lt;/li>
+&lt;li>Includes multiple optimizers (Gradient Descent, Momentum, RMSProp, Adam)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/opencvtuts">Computer Vision Dump&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Object detection using haarcascade&lt;/li>
+&lt;li>Implemented drawing in canvas through hand motion&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>
 &lt;p>&lt;strong>&lt;a href="https://github.com/Atomnp/Anubadak">Anubadak: interpreter implemented in C++&lt;/a>&lt;/strong>&lt;/p>
 &lt;ul>
@@ -67,7 +88,7 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 &lt;li>Visualization of different Data Structure and Algorithms&lt;/li>
 &lt;li>Include visualization for sorting (Quicksort,Mergesort,Shellshort,Insertionsort, Selectionsort, Radixsort etc.)&lt;/li>
 &lt;li>Includes visualization for Graph Algorithms ( Prism&amp;rsquo;s Algorithm, Kruskal&amp;rsquo;s Algorithm, Breadth First Search, Depth First Search)&lt;/li>
-&lt;li>Implemented in SFML using C++&lt;/li>
+&lt;li>Implemented in C++ using SFML&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
