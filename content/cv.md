@@ -37,8 +37,7 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 #### Work Experience:
 
 - Freelancer at **[Upwork](https://www.upwork.com/freelancers/~01257eab052741ec05)**
-  - Performed lead generation
-  - Extracted about a million of cricket Matches, Players, Grounds data and pipelined it to work with live tableau worbook
+
 
 
 #### Academic And Non Academic Projects:
@@ -50,6 +49,7 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
   - Includes ML algorithms (KNN, Linear Regression)
   - Includes Neural Networks ( ANN, CNN )
   - Includes multiple optimizers (Gradient Descent, Momentum, RMSProp, Adam)
+  - Includes Skip Connection by concatenation between layers
 
 - **[Computer Vision Dump](https://github.com/Aayushshah196/opencvtuts)**
 
