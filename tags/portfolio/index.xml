@@ -2,15 +2,15 @@
 Employment Status: Student
 College: Pulchowk Campus, IOE
 Undergraduate: Bachelor in Computer Engineering
-Year: Third Year, Sixth Semester
+Year: Fourth Year, Seventh Semester
 Address:
 Primary: Biratnagar-3, Morang Secondary: Pulchowk, Lalitpur (current) Permanent: Barah-2, Sunsari Email:
-aayushshah196@gmail.com Skills: Programming Languages : Python, C++, C and JavaScript Machine Learning : Numpy, Pandas, Scikit-Learn TensorFlow, Pytorch Web Development : Reactjs, Expressjs, Flask and Django Databases : SQLite3, Postgres, MongoDB Version Control : Git Achievements and Awards: Ncell Scholarship, 2020, Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provided to outstanding students.</description><content>&lt;h4 id="primary-information">Primary Information&lt;/h4>
+aayushshahkanu@gmail.com Skills: Programming Languages : Python, C++, Solidity and JavaScript Machine Learning : Numpy, Pandas, Scikit-Learn TensorFlow Web Development : Reactjs, Flask and Django Databases : SQLite3, Postgres, MongoDB Version Control : Git Achievements and Awards: Ncell Scholarship, 2020</description><content>&lt;h4 id="primary-information">Primary Information&lt;/h4>
 &lt;p>&lt;strong>Name:&lt;/strong> Aayush Shah Kanu&lt;br>
 &lt;strong>Employment Status:&lt;/strong> Student&lt;br>
 &lt;strong>College:&lt;/strong> Pulchowk Campus, IOE&lt;br>
 &lt;strong>Undergraduate:&lt;/strong> Bachelor in Computer Engineering&lt;br>
-&lt;strong>Year:&lt;/strong> Third Year, Sixth Semester&lt;br>
+&lt;strong>Year:&lt;/strong> Fourth Year, Seventh Semester&lt;br>
 &lt;strong>Address:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Primary: Biratnagar-3, Morang&lt;/li>
@@ -19,25 +19,36 @@ aayushshah196@gmail.com Skills: Programming Languages : Python, C++, C and JavaS
 &lt;/ul>
 &lt;p>&lt;strong>Email:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="mailto:aayushshah196@gmail.com">aayushshah196@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="mailto:aayushshahkanu@gmail.com">aayushshahkanu@gmail.com&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h4 id="skills">Skills:&lt;/h4>
 &lt;ul>
-&lt;li>&lt;strong>Programming Languages&lt;/strong> : Python, C++, C and JavaScript&lt;/li>
-&lt;li>&lt;strong>Machine Learning&lt;/strong> : Numpy, Pandas, Scikit-Learn TensorFlow, Pytorch&lt;/li>
-&lt;li>&lt;strong>Web Development&lt;/strong> : Reactjs, Expressjs, Flask and Django&lt;/li>
+&lt;li>&lt;strong>Programming Languages&lt;/strong> : Python, C++, Solidity and JavaScript&lt;/li>
+&lt;li>&lt;strong>Machine Learning&lt;/strong> : Numpy, Pandas, Scikit-Learn TensorFlow&lt;/li>
+&lt;li>&lt;strong>Web Development&lt;/strong> : Reactjs, Flask and Django&lt;/li>
 &lt;li>&lt;strong>Databases&lt;/strong> : SQLite3, Postgres, MongoDB&lt;/li>
 &lt;li>&lt;strong>Version Control&lt;/strong> : Git&lt;/li>
 &lt;/ul>
 &lt;h4 id="achievements-and-awards">Achievements and Awards:&lt;/h4>
 &lt;ul>
-&lt;li>&lt;strong>Ncell Scholarship, 2020&lt;/strong>,
+&lt;li>&lt;strong>Ncell Scholarship, 2020&lt;/strong>&lt;br>
 Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provided to outstanding students.&lt;/li>
 &lt;/ul>
 &lt;h4 id="work-experience">Work Experience:&lt;/h4>
 &lt;ul>
 &lt;li>Freelancer at &lt;strong>&lt;a href="https://www.upwork.com/freelancers/~01257eab052741ec05">Upwork&lt;/a>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="other-experiences">Other Experiences&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>AI Fellowship by Fusemachines Inc.&lt;/strong> &lt;br>
+Performed EDA and trained a ML model for &lt;a href="https://github.com/Aayushshah196/Disease-Prediction-System">disease prediction from symptoms&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Blockchain Fellowship by esatya(Rumsan Group)&lt;/strong>&lt;br>
+Implemented a &lt;a href="https://github.com/ashishlamsal/voting-dapp">blockchain based voting system&lt;/a> working in ethereum network.&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h4 id="academic-and-non-academic-projects">Academic And Non Academic Projects:&lt;/h4>
 &lt;ul>
@@ -51,13 +62,11 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 &lt;li>Includes Skip Connection by concatenation between layers&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/opencvtuts">Computer Vision Dump&lt;/a>&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Object detection using haarcascade&lt;/li>
-&lt;li>Implemented drawing in canvas through hand motion&lt;/li>
 &lt;/ul>
-&lt;/li>
+&lt;!-- - **[Computer Vision Dump](https://github.com/Aayushshah196/opencvtuts)**
+- Object detection using haarcascade
+- Implemented drawing in canvas through hand motion -->
+&lt;ul>
 &lt;li>
 &lt;p>&lt;strong>&lt;a href="https://github.com/Atomnp/Anubadak">Anubadak: interpreter implemented in C++&lt;/a>&lt;/strong>&lt;/p>
 &lt;ul>
@@ -65,6 +74,15 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 &lt;li>Simple interpreter for &lt;code>B&lt;/code> like language&lt;/li>
 &lt;li>Uses common compiler design principles like lexical analysis, semantic analysis, Abstract Syntax Tree(AST)&lt;/li>
 &lt;li>Translates Code into equivalent C++ code&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/IOE-OCW">IOE Courseware&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Implemented a MVP of an Open Courseware using &lt;em>React&lt;/em>, &lt;em>Django&lt;/em> and &lt;em>Sqlite&lt;/em>&lt;/li>
+&lt;li>Student view for search, enrollments, videos, quiz, certification, feedback, rating, review&lt;/li>
+&lt;li>Instructor View for dashboard, CRUD operations of courses, lessons, materials, quiz, feedback, rating, review&lt;/li>
+&lt;li>SuperUser for complete access to data for regulation&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -99,7 +117,7 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 &lt;hr>
 &lt;h4 id="links">Links:&lt;/h4>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://aayushshah.com.np/">Personal Website&lt;/a>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://aayushshah.com.np/about">Personal Website&lt;/a>&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>&lt;a href="https://github.com/aayushshah196">GitHub Profile&lt;/a>&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>&lt;a href="https://www.linkedin.com/in/aayush-shah-kanu-3b04401a2">LinkedIn&lt;/a>&lt;/strong>&lt;/li>
 &lt;/ul></content></item></channel></rss>
