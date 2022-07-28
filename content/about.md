@@ -13,7 +13,6 @@ I am a computer engineering undergraduate studying at the [Institute of Engineer
 
 - Artificial Intelligence
 - Machine Learning
-- Image Processing
 - Natural Language Processing
 - Blockchain
 - Web Development

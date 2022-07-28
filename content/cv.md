@@ -11,34 +11,40 @@ tags = ["cv", "resume", "portfolio"]
 **Employment Status:** Student\
 **College:** Pulchowk Campus, IOE\
 **Undergraduate:** Bachelor in Computer Engineering\
-**Year:** Third Year, Sixth Semester\
+**Year:** Fourth Year, Seventh Semester\
 **Address:**
 - Primary: Biratnagar-3, Morang 
 - Secondary: Pulchowk, Lalitpur (current)
 - Permanent: Barah-2, Sunsari
 
 **Email:**
-- aayushshah196@gmail.com
+- aayushshahkanu@gmail.com
 
 ---
 
 #### Skills:
 
-- **Programming Languages** : Python, C++, C and JavaScript
-- **Machine Learning** : Numpy, Pandas, Scikit-Learn TensorFlow, Pytorch
-- **Web Development** : Reactjs, Expressjs, Flask and Django
+- **Programming Languages** : Python, C++, Solidity and JavaScript
+- **Machine Learning** : Numpy, Pandas, Scikit-Learn TensorFlow
+- **Web Development** : Reactjs, Flask and Django
 - **Databases** : SQLite3, Postgres, MongoDB
 - **Version Control** : Git
 
 #### Achievements and Awards:
-- **Ncell Scholarship, 2020**,
+- **Ncell Scholarship, 2020**\
 Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provided to outstanding students.
 
 #### Work Experience:
 
 - Freelancer at **[Upwork](https://www.upwork.com/freelancers/~01257eab052741ec05)**
 
+#### Other Experiences
 
+- **AI Fellowship by Fusemachines Inc.** \
+Performed EDA and trained a ML model for [disease prediction from symptoms](https://github.com/Aayushshah196/Disease-Prediction-System)
+
+- **Blockchain Fellowship by esatya(Rumsan Group)**\
+Implemented a [blockchain based voting system](https://github.com/ashishlamsal/voting-dapp)  working in ethereum network.
 
 #### Academic And Non Academic Projects:
 
@@ -51,10 +57,10 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
   - Includes multiple optimizers (Gradient Descent, Momentum, RMSProp, Adam)
   - Includes Skip Connection by concatenation between layers
 
-- **[Computer Vision Dump](https://github.com/Aayushshah196/opencvtuts)**
+<!-- - **[Computer Vision Dump](https://github.com/Aayushshah196/opencvtuts)**
 
   - Object detection using haarcascade
-  - Implemented drawing in canvas through hand motion
+  - Implemented drawing in canvas through hand motion -->
 
 
 - **[Anubadak: interpreter implemented in C++](https://github.com/Atomnp/Anubadak)**
@@ -63,6 +69,14 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
   - Simple interpreter for `B` like language
   - Uses common compiler design principles like lexical analysis, semantic analysis, Abstract Syntax Tree(AST)
   - Translates Code into equivalent C++ code 
+
+
+- **[IOE Courseware](https://github.com/Aayushshah196/IOE-OCW)**
+
+  - Implemented a MVP of an Open Courseware using *React*, *Django*  and *Sqlite*
+  - Student view for search, enrollments, videos, quiz, certification, feedback, rating, review
+  - Instructor View for dashboard, CRUD operations of courses, lessons, materials, quiz, feedback, rating, review
+  - SuperUser for complete access to data for regulation 
 
 
 - **[DSA Visualizer](https://github.com/Aayushshah196/DataStructure-Algorithms)**
@@ -94,6 +108,6 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 ---
 #### Links:
 
-- **[Personal Website](https://aayushshah.com.np/)**
+- **[Personal Website](https://aayushshah.com.np/about)**
 - **[GitHub Profile](https://github.com/aayushshah196)**
 - **[LinkedIn](https://www.linkedin.com/in/aayush-shah-kanu-3b04401a2)**
