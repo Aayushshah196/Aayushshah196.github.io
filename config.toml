@@ -1,4 +1,4 @@
-baseUrl = "http://aayushshah.com.np/"
+baseUrl = "https://aayushshah.com.np/"
 title = "Aayush Shah Kanu"
 
 theme = "terminal"
@@ -60,6 +60,15 @@ enableInlineShortcodes = true
     # Enable Twemoji
     enableTwemoji = false
 
+    # Custom CSS
+    customCSS = ["css/academicons.css"]
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
 
 # If you want to implement a Content-Security-Policy, add this section
 # NOTE: The work is tedius since add the sources have to be added
@@ -86,7 +95,6 @@ enableInlineShortcodes = true
 #             "https://ajax.cloudflare.com",
 #             "https://static.cloudflareinsights.com",
 #             "https://www.google-analytics.com",
-#             "https://rabinadk1.disqus.com",
 #             "https://cdn.jsdelivr.net/"
 #     ]
 # 	  prefetchsrc = ["'self'"]
@@ -134,7 +142,7 @@ enableInlineShortcodes = true
 
             [[languages.en.menu.main]]
             name = "About"
-            identifier = "About"
+            identifier = "about"
             weight = 1
             url = "/about"
 

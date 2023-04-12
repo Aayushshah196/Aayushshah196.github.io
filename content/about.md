@@ -11,9 +11,10 @@ I am a computer engineering undergraduate studying at the [Institute of Engineer
 
 ### Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Blockchain
-- Web Development
+-   Artificial Intelligence
+-   Machine Learning
+-   Natural Language Processing
+-   Blockchain
+-   Web Development
 
+[Get My Resume](/resume)
