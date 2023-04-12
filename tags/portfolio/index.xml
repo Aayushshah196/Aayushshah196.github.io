@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>portfolio on Aayush Shah Kanu</title><link>http://aayushshah.com.np/tags/portfolio/</link><description>Recent content in portfolio on Aayush Shah Kanu</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2022 Aayush Shah Kanu</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aayushshah.com.np/tags/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>CV: Aayush Shah Kanu</title><link>http://aayushshah.com.np/cv/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>http://aayushshah.com.np/cv/</guid><description>Primary Information Name: Aayush Shah Kanu
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>portfolio on Aayush Shah Kanu</title><link>https://aayushshah.com.np/tags/portfolio/</link><description>Recent content in portfolio on Aayush Shah Kanu</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2022 Aayush Shah Kanu</copyright><lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aayushshah.com.np/tags/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>CV: Aayush Shah Kanu</title><link>https://aayushshah.com.np/cv/</link><pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate><guid>https://aayushshah.com.np/cv/</guid><description>Primary Information Name: Aayush Shah Kanu
 Employment Status: Student
 College: Pulchowk Campus, IOE
 Undergraduate: Bachelor in Computer Engineering
-Year: Fourth Year, Seventh Semester
+Year: Fourth Year, Eight Semester
 Address:
 Primary: Biratnagar-3, Morang Secondary: Pulchowk, Lalitpur (current) Permanent: Barah-2, Sunsari Email:
-aayushshahkanu@gmail.com Skills: Programming Languages : Python, C++, Solidity and JavaScript Machine Learning : Numpy, Pandas, Scikit-Learn TensorFlow Web Development : Reactjs, Flask and Django Databases : SQLite3, Postgres, MongoDB Version Control : Git Achievements and Awards: Ncell Scholarship, 2020</description><content>&lt;h4 id="primary-information">Primary Information&lt;/h4>
+aayushshahkanu@gmail.com Skills: Programming Languages : Python, C++, JavaScript Machine Learning : Numpy, Pandas, Scikit-Learn, PyTorch, Huggingface Web Development : Reactjs, FastAPI, Django Databases : SQLite3, PostgreSQL, MongoDB Open ERP : Odoo Data Visualization : Tableau Version Control : Git Achievements and Awards: Ncell Scholarship, 2020</description><content>&lt;h4 id="primary-information">Primary Information&lt;/h4>
 &lt;p>&lt;strong>Name:&lt;/strong> Aayush Shah Kanu&lt;br>
 &lt;strong>Employment Status:&lt;/strong> Student&lt;br>
 &lt;strong>College:&lt;/strong> Pulchowk Campus, IOE&lt;br>
 &lt;strong>Undergraduate:&lt;/strong> Bachelor in Computer Engineering&lt;br>
-&lt;strong>Year:&lt;/strong> Fourth Year, Seventh Semester&lt;br>
+&lt;strong>Year:&lt;/strong> Fourth Year, Eight Semester&lt;br>
 &lt;strong>Address:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Primary: Biratnagar-3, Morang&lt;/li>
@@ -24,10 +24,12 @@ aayushshahkanu@gmail.com Skills: Programming Languages : Python, C++, Solidity a
 &lt;hr>
 &lt;h4 id="skills">Skills:&lt;/h4>
 &lt;ul>
-&lt;li>&lt;strong>Programming Languages&lt;/strong> : Python, C++, Solidity and JavaScript&lt;/li>
-&lt;li>&lt;strong>Machine Learning&lt;/strong> : Numpy, Pandas, Scikit-Learn TensorFlow&lt;/li>
-&lt;li>&lt;strong>Web Development&lt;/strong> : Reactjs, Flask and Django&lt;/li>
-&lt;li>&lt;strong>Databases&lt;/strong> : SQLite3, Postgres, MongoDB&lt;/li>
+&lt;li>&lt;strong>Programming Languages&lt;/strong> : Python, C++, JavaScript&lt;/li>
+&lt;li>&lt;strong>Machine Learning&lt;/strong> : Numpy, Pandas, Scikit-Learn, PyTorch, Huggingface&lt;/li>
+&lt;li>&lt;strong>Web Development&lt;/strong> : Reactjs, FastAPI, Django&lt;/li>
+&lt;li>&lt;strong>Databases&lt;/strong> : SQLite3, PostgreSQL, MongoDB&lt;/li>
+&lt;li>&lt;strong>Open ERP&lt;/strong> : Odoo&lt;/li>
+&lt;li>&lt;strong>Data Visualization&lt;/strong> : Tableau&lt;/li>
 &lt;li>&lt;strong>Version Control&lt;/strong> : Git&lt;/li>
 &lt;/ul>
 &lt;h4 id="achievements-and-awards">Achievements and Awards:&lt;/h4>
@@ -37,21 +39,51 @@ Ncell under its Corporate Social Responsibility(CSR) initiated scholarship provi
 &lt;/ul>
 &lt;h4 id="work-experience">Work Experience:&lt;/h4>
 &lt;ul>
-&lt;li>Freelancer at &lt;strong>&lt;a href="https://www.upwork.com/freelancers/~01257eab052741ec05">Upwork&lt;/a>&lt;/strong>&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>ML Engineer Intern, Docsumo, Dec 2022 - Present&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Contributed to the end-to-end pipeline for automated extraction of multiple document types, from data collection to model training and API implementation.&lt;/li>
+&lt;li>Researched and experimented with different ML models to improve performance and accuracy.&lt;/li>
+&lt;li>Worked closely with a team to learn best practices in ML development and deployment.&lt;/li>
 &lt;/ul>
-&lt;h4 id="other-experiences">Other Experiences&lt;/h4>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Software Engineer Trainee, Bajra Technologies, Sep 2022 - Dec 2022&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Worked with Python, JavaScript, XML, PostgreSQL, and Odoo to create ERP solutions.&lt;/li>
+&lt;li>Developed health and productivity projects, including a &lt;a href="https://github.com/Aayushshah196/Eye-care-Notifier">Eye Health Promotion App&lt;/a> and a &lt;a href="https://github.com/Aayushshah196/ToDo-Web">Task Management App&lt;/a>.&lt;/li>
+&lt;li>Developed personalized reminders for breaks, exercises, and screen adjustments in the eye health app.&lt;/li>
+&lt;li>Implemented priority tracking and agile methodologies in the task management app&amp;rsquo;s intuitive UI.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="additional-experiences">Additional Experiences&lt;/h4>
 &lt;ul>
 &lt;li>
+&lt;p>&lt;strong>Event Organizer, LOCUS 2023&lt;/strong>&lt;br>
+Organized Data and BI Workshop, Yomari Coding Competition, and UxCam Code Camp in LOCUS 2023, a national technological fest, in collaboration with LIS Nepal and UxCam.&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;strong>AI Fellowship by Fusemachines Inc.&lt;/strong> &lt;br>
-Performed EDA and trained a ML model for &lt;a href="https://github.com/Aayushshah196/Disease-Prediction-System">disease prediction from symptoms&lt;/a>&lt;/p>
+Performed EDA and trained a ML model for &lt;a href="https://github.com/Aayushshah196/Disease-Prediction-System">Disease Prediction From Symptoms&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Blockchain Fellowship by esatya(Rumsan Group)&lt;/strong>&lt;br>
-Implemented a &lt;a href="https://github.com/ashishlamsal/voting-dapp">blockchain based voting system&lt;/a> working in ethereum network.&lt;/p>
+Implemented a &lt;a href="https://github.com/ashishlamsal/voting-dapp">Blockchain Based Voting System&lt;/a> working in ethereum network.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h4 id="academic-and-non-academic-projects">Academic And Non Academic Projects:&lt;/h4>
 &lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="">Information Extraction from Structured Documents&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Utilized ML algorithms for accurate data extraction from structured documents such as Tax Forms, Invoices &amp;amp; Receipts, Insurance Forms.&lt;/li>
+&lt;li>Developed annotation tool for efficient data preparation.&lt;/li>
+&lt;li>Created training module for continuous improvement of data extraction accuracy through annotated data.&lt;/li>
+&lt;li>Designed flexible platform for API integration, streamlining document processing workflows.&lt;/li>
+&lt;li>Implemented data download in JSON and CSV formats.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>
 &lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/Ml-Algo">ML Algorithms&lt;/a>&lt;/strong>&lt;/p>
 &lt;ul>
@@ -62,18 +94,12 @@ Implemented a &lt;a href="https://github.com/ashishlamsal/voting-dapp">blockchai
 &lt;li>Includes Skip Connection by concatenation between layers&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul>
-&lt;!-- - **[Computer Vision Dump](https://github.com/Aayushshah196/opencvtuts)**
-- Object detection using haarcascade
-- Implemented drawing in canvas through hand motion -->
-&lt;ul>
 &lt;li>
 &lt;p>&lt;strong>&lt;a href="https://github.com/Atomnp/Anubadak">Anubadak: interpreter implemented in C++&lt;/a>&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Academic Project for Object Oriented Programming&lt;/li>
 &lt;li>Simple interpreter for &lt;code>B&lt;/code> like language&lt;/li>
 &lt;li>Uses common compiler design principles like lexical analysis, semantic analysis, Abstract Syntax Tree(AST)&lt;/li>
-&lt;li>Translates Code into equivalent C++ code&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -89,20 +115,9 @@ Implemented a &lt;a href="https://github.com/ashishlamsal/voting-dapp">blockchai
 &lt;p>&lt;strong>&lt;a href="https://github.com/Aayushshah196/DataStructure-Algorithms">DSA Visualizer&lt;/a>&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Visualization of different Data Structure and Algorithms&lt;/li>
-&lt;li>Include visualization for sorting (Quicksort,Mergesort,Shellshort,Insertionsort, Selectionsort, Radixsort etc.)&lt;/li>
+&lt;li>Include visualization for sorting Algorithms(Quicksort,Mergesort,Shellshort,Insertionsort, Selectionsort, Radixsort)&lt;/li>
 &lt;li>Includes visualization for Graph Algorithms ( Prism&amp;rsquo;s Algorithm, Kruskal&amp;rsquo;s Algorithm, Breadth First Search, Depth First Search)&lt;/li>
 &lt;li>Implemented in C++ using SFML&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>&lt;a href="https://github.com/ADI13579/Opengl-Project">3D Clock Tower visualization&lt;/a>&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Academic Project for Computer Graphics&lt;/li>
-&lt;li>Implemented using C++&lt;/li>
-&lt;li>Renderer created from scratch which can render any 3D model&lt;/li>
-&lt;li>implements Gourad shading and Phong shading&lt;/li>
-&lt;li>implements Phong illumination model&lt;/li>
-&lt;li>Blender for 3D model&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
