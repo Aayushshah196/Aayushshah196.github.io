@@ -1,0 +1,166 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+---
+
+<BaseLayout title="Resume" sideBarActiveItemID="cv">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Profile</div>
+  </div>
+
+  <div class="mb-4 text-justify">
+    As a dedicated computer engineer, my passion lies in solving complex
+    problems and embracing the intricacies of coding, automation, AI, and
+    mathematics. I am genuinely enthralled by the world of product engineering,
+    machine learning, and data analysis, continually seeking ways to enhance my
+    coding skills. Beyond technology, I find solace in the pages of novels and
+    manga and enjoy the thrill of trekking adventures. Drawing from my extensive
+    professional background, which includes co-leading projects, contributing to
+    critical time delivery endeavors, and mastering versatile tech stacks, I am
+    committed to genuine learning and growth in every aspect of my journey.
+  </div>
+  <div class="mb-10 text-justify">
+    If you share a passion for problem-solving, technology, and innovation, I
+    invite you to connect with me. Let's explore opportunities to learn, create,
+    and make a meaningful impact together. Feel free to reach out; I'm excited
+    to collaborate with like-minded individuals.
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Education</div>
+  </div>
+
+  <div class="time-line-container grid gap-4 mb-10">
+    <TimeLineElement
+      title="Bachelor in Computer Engineering"
+      subtitle="2018 to 2023 at Pulchowk Engineering Campus Lalitpur, Nepal"
+    />
+    <TimeLineElement
+      title="High School, +2 Science"
+      subtitle="2016 to 2018 at Greenland Internation H.S.S, Biratnagar, Nepal"
+    />
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Experience</div>
+  </div>
+
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Machine Learning Engineer"
+      subtitle="From Dec 2022 to Present at Docsumo, Kathmandu, Nepal"
+    >
+      Played a pivotal role in leading the end-to-end pipeline for automated
+      document extraction, achieving a notable increase in accuracy from 90% to
+      97%. Additionally, my contributions to a critical time delivery project
+      resulted in an outstanding accuracy of 99%, showcasing my proficiency in
+      implementing ML models and collaboration with the Client API Team for
+      successful client deliveries. Co-leading multiple projects, from
+      requirement gathering to API deployments, underscored my commitment to
+      achieving seamless end-to-end success and effective stakeholder
+      communication.
+    </TimeLineElement>
+
+    <TimeLineElement
+      title="AI Fellowship Scholar"
+      subtitle="From Mar 2022 to Jan 2023 at Fusemachines, Kathmandu, Nepal"
+    >
+      Mastered a versatile tech stack, including Python, scikit-learn, NumPy,
+      Pandas, Matplotlib, PyTorch, and Hugging Face. Notable achievements
+      encompassed an intensive microdegree and the development of an end-to-end
+      Machine Learning and software pipeline using Django, showcasing my
+      adeptness in seamlessly integrating ML models into applications. This
+      underscores my commitment to impactful contributions in artificial
+      intelligence.
+    </TimeLineElement>
+    <TimeLineElement
+      title="Software Engineer Trainee"
+      subtitle="From Sep 2022 to Dec 2022 at Bajra Technologies LLC, Kathmandu, Nepal"
+    >
+      Demonstrated proficiency in Python, JavaScript, XML, PostgreSQL, and the
+      Odoo ERP framework. Collaborating effectively within a dynamic team, I
+      contributed to the implementation of software development best practices.
+      Key achievements include my role in creating impactful projects like the
+      Eye Health Promotion App and Task Management App. I excel in efficient
+      coding and problem-solving, with measurable improvements in system
+      efficiency.
+    </TimeLineElement>
+    <TimeLineElement
+      title="Blockchain Fellowship Scholar"
+      subtitle="From Apr 2022 to Jun 2023 at eSatya, A Rumsan Company, Lalitpur, Nepal"
+    >
+      Achieved significant milestones by developing a decentralized voting
+      system DApp on the Ethereum network, showcasing practical application of
+      blockchain technology. Additionally, I demonstrated proficiency in
+      software development best practices within the blockchain ecosystem,
+      collaborating effectively with a team to implement impactful solutions.
+    </TimeLineElement>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Certifications</div>
+  </div>
+
+  <ul class="list-disc mx-6 mb-10 grid gap-2">
+    <li>
+      <a
+        href="https://coursera.org/share/ae6b046ba7dfdb6a0141dbd3001d99c2"
+        target="_blank"
+      >
+        Deep Learning Specialization by deeplearning.ai</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://coursera.org/share/192007cd3405ac570fd76216389fee4e"
+        target="_blank">DeepLearning.AI TensorFlow Developer Specialization</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://coursera.org/share/a13af8aedbe1cd072c3de65f6130eeb6"
+        target="_blank">AI for Medicine Specialization</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://coursera.org/share/81b77842ce2033dd8084c20adedf4d7b"
+        target="_blank">Build Basic Generative Adversarial Networks</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://coursera.org/share/9e66f2d7cac89a081fab9b2ba8abad07"
+        target="_blank"
+        >Natural Language Processing with Classification and Vector</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://coursera.org/share/9e66f2d7cac89a081fab9b2ba8abad07"
+        target="_blank">AWS Academy Machine Learning Foundations</a
+      >
+    </li>
+  </ul>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Skills</div>
+  </div>
+
+  <ul class="list-disc md:columns-5 columns-2 mx-6">
+    <li>Machine Learning</li>
+    <li>NLP</li>
+    <li>Computer Vision</li>
+    <li>Python</li>
+    <li>Javascript</li>
+    <li>C++</li>
+    <li>Pytorch</li>
+    <li>Scikit-Learn</li>
+    <li>Pandas</li>
+    <li>Numpy</li>
+    <li>FastAPI</li>
+    <li>Flask</li>
+    <li>PosgreSQL</li>
+    <li>MongoDB</li>
+  </ul>
+</BaseLayout>
