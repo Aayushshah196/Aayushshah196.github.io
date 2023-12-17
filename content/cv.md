@@ -117,4 +117,4 @@ tags = ["cv", "resume", "portfolio"]
 
 -   **[Personal Website](https://aayushshah.com.np/about)**
 -   **[GitHub Profile](https://github.com/aayushshah196)**
--   **[LinkedIn](https://www.linkedin.com/in/aayush-shah-kanu)**
+-   **[LinkedIn](https://www.linkedin.com/in/aayush-shah-kanu-3b04401a2)**
